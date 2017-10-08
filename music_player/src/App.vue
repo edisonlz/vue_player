@@ -32,7 +32,7 @@
 //import external script
 import animate from './assets/animate.css'
 import jquery from './assets/jquery-1.11.3.min.js'
-import rsvp from './assets/rsvp-latest.min.js'
+//import rsvp from './assets/rsvp-latest.min.js'
 
 
 import VHeader from './components/Header/Header.vue';
