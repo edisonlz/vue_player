@@ -27,10 +27,10 @@
 
 ####如果您在阅读的这份文档，您需要掌握以下技能:。 
 
-###Javascript
+###Javascript Promise
 ``` 
 axios/promise
-材料：http://liubin.org/promises-book/
+
 function getImg(url) {  
     return Promise(function(resolve, reject) {  
         var img = new Image();  
@@ -42,7 +42,10 @@ function getImg(url) {
         };
         img.url = url;  
     });  
-};  
+}; 
+
+[1]材料：http://liubin.org/promises-book/
+
 ```
 
 ### CSS Animation
@@ -73,14 +76,21 @@ $(".roll_image").css("animation-play-state","paused");
     100%{transform: rotate(360deg);}
 }
 ```
-### CSS Flex
+
+[1]材料：http://www.w3school.com.cn/css3/css3_animation.asp
+[2]材料：http://www.w3school.com.cn/cssref/pr_animation.asp
+[3]材料：http://www.ruanyifeng.com/blog/2014/02/css_transition_and_animation.html
+
+
+### CSS Flex Layout
 ```
-css Flex Layout
-http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html
 .box{
   display: -webkit-flex; /* Safari */
   display: flex;
 }
+
+[1]材料：http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html
+
 ```
 ### Vue 组件
 ```
@@ -95,10 +105,14 @@ http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html
         <VFooter></VFooter>
       </div>
 ```
+
+
 ### Vue Transition
 ```
       <transition name="show"></transition>
 ```
+
+
 ###Mint UI
 ```
 http://mint-ui.github.io/
