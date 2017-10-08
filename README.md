@@ -45,7 +45,7 @@ function getImg(url) {
 };  
 ```
 
-### CSS
+### CSS Animation
 ```
 #css 唱片旋转
 $(".roll_image").css("animation-play-state","running");
@@ -73,7 +73,7 @@ $(".roll_image").css("animation-play-state","paused");
     100%{transform: rotate(360deg);}
 }
 ```
-### CSS
+### CSS Flex
 ```
 css Flex Layout
 http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html
