@@ -44,9 +44,8 @@ function getImg(url) {
     });  
 }; 
 
-[1]材料：http://liubin.org/promises-book/
-
 ```
+- [1]材料：http://liubin.org/promises-book/
 
 ### CSS Animation
 ```
@@ -77,9 +76,9 @@ $(".roll_image").css("animation-play-state","paused");
 }
 ```
 
-[1]材料：http://www.w3school.com.cn/css3/css3_animation.asp
-[2]材料：http://www.w3school.com.cn/cssref/pr_animation.asp
-[3]材料：http://www.ruanyifeng.com/blog/2014/02/css_transition_and_animation.html
+- [1]材料：http://www.w3school.com.cn/css3/css3_animation.asp
+- [2]材料：http://www.w3school.com.cn/cssref/pr_animation.asp
+- [3]材料：http://www.ruanyifeng.com/blog/2014/02/css_transition_and_animation.html
 
 
 ### CSS Flex Layout
@@ -89,7 +88,7 @@ $(".roll_image").css("animation-play-state","paused");
   display: flex;
 }
 
-[1]材料：http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html
+- [1]材料：http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html
 
 ```
 ### Vue 组件
@@ -105,19 +104,27 @@ $(".roll_image").css("animation-play-state","paused");
         <VFooter></VFooter>
       </div>
 ```
-
+- [1]材料：https://cn.vuejs.org/v2/guide/transitions.html
 
 ### Vue Transition
 ```
       <transition name="show"></transition>
 ```
+- [1]材料：https://cn.vuejs.org/v2/guide/components.html
 
 
 ###Mint UI
 ```
-http://mint-ui.github.io/
+// 引入全部组件
+import Vue from 'vue';
+import Mint from 'mint-ui';
+Vue.use(Mint);
+// 按需引入部分组件
+import { Cell, Checklist } from 'minu-ui';
+Vue.component(Cell.name, Cell);
+Vue.component(Checklist.name, Checklist);
 ```
-
+- [1]材料：http://mint-ui.github.io/
 
 
 ## Build Setup
