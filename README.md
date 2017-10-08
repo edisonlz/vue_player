@@ -25,9 +25,9 @@
 - App.vue 项目view
 
 
-####如果您在阅读的这份文档，您需要掌握以下技能:。 
+####如果您在阅读的这份文档，您需要掌握以下技能: 
 
-###Javascript Promise
+### Javascript Promise
 ``` 
 axios/promise
 
