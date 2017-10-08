@@ -14,9 +14,9 @@
 - **other**
 
 ###图片介绍
-![Alt text](./img/1.png)
-![Alt text](./img/2.png)
-![Alt text](./img/3.png)
+![Alt text]<img src='./img/1.png' width="120px"/>
+![Alt text]<img src='./img/2.png' width="120px"/>
+![Alt text]<img src='./img/3.png' width="120px"/>
 
 -------------------
 
