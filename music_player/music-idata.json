@@ -1,0 +1,59 @@
+{
+  "musicData": [
+        {
+            "name": "民谣",
+            "src": "http://ws.stream.qqmusic.qq.com/102149431.m4a?fromtag=46", 
+            "musicImgSrc": "http://imgcache.qq.com/music/photo/album_300/67/300_albumpic_193967_0.jpg", 
+            "desc": "赵小雷"
+        },
+        {
+            "name": "如初", 
+            "src": "http://ws.stream.qqmusic.qq.com/4994953.m4a?fromtag=46", 
+            "musicImgSrc": "http://imgcache.qq.com/music/photo/album_300/82/300_albumpic_435182_0.jpg",
+            "desc": "如初"
+        },
+        {   
+            "name":"Balada",
+            "src":"http://ws.stream.qqmusic.qq.com/105016595.m4a?fromtag=46",
+            "musicImgSrc":"http://imgcache.qq.com/music/photo/album_300/3/300_albumpic_1209803_0.jpg",
+            "desc":"Axé Bahia 2012"
+        },
+        {
+            "name":"枕畔留香",
+            "src":"http://ws.stream.qqmusic.qq.com/109087544.m4a?fromtag=46",
+            "musicImgSrc":"http://imgcache.qq.com/music/photo/album_300/82/300_albumpic_1673782_0.jpg",
+            "desc":"台湾福建 畅销金曲沙龙镭射效果音乐"
+        },
+        {
+            "name":"侠影留香",
+            "src":"http://ws.stream.qqmusic.qq.com/108030427.m4a?fromtag=46",
+            "musicImgSrc":"http://imgcache.qq.com/music/photo/album_300/57/300_albumpic_2017457_0.jpg",
+            "desc":"义犹未尽"
+        },
+        {
+            "name":"剑三轻功赋·踏月留香",
+            "src":"http://ws.stream.qqmusic.qq.com/108176091.m4a?fromtag=46",
+            "musicImgSrc":"http://imgcache.qq.com/music/photo/album_300/23/300_albumpic_8623_0.jpg"
+            ,"desc":"空"
+        },
+        {
+            "name":"踏月留香",
+            "src":"http://ws.stream.qqmusic.qq.com/2457080.m4a?fromtag=46",
+            "musicImgSrc":"http://imgcache.qq.com/music/photo/album_300/54/300_albumpic_191754_0.jpg",
+            "desc":"踏月留香"
+        },
+        {
+                "name":"Save The Flavor"
+                ,"src":"http://ws.stream.qqmusic.qq.com/1702095.m4a?fromtag=46",
+                "musicImgSrc":"http://imgcache.qq.com/music/photo/album_300/62/300_albumpic_134962_0.jpg",
+                "desc":"World peace"
+        },
+        {
+            "name":"只道寻常",
+            "src":"http://ws.stream.qqmusic.qq.com/200288108.m4a?fromtag=46",
+            "musicImgSrc":"http://imgcache.qq.com/music/photo/album_300/44/300_albumpic_1800544_0.jpg",
+            "desc":"知非"
+        }
+        
+    ]
+}
