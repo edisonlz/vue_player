@@ -9,7 +9,7 @@
 - **JavaScript Promise**
 - **jquery**
 - **css animation**
-- **mint ui **
+- **mint ui**
 - **other**
 
 -------------------
