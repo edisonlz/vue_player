@@ -88,9 +88,10 @@ $(".roll_image").css("animation-play-state","paused");
   display: flex;
 }
 
+```
 - [1]材料：http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html
 
-```
+
 ### Vue 组件
 ```
       <div v-show="isShowIndex" class="index">
