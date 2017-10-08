@@ -16,13 +16,13 @@
 
 
 ## Vue-Player 框架介绍
-##### src
-######-assests 静态文件存放目录
-######-components vue组件目录
-######-network vue-axios网络目录
-######-router 路由目录
-######-store 存储状态
-######-App.vue 项目view
+- src
+- assests 静态文件存放目录
+- components vue组件目录
+- network vue-axios网络目录
+- router 路由目录
+- store 存储状态
+- App.vue 项目view
 
 
 ####如果您在阅读的这份文档，您需要掌握以下技能:。 
