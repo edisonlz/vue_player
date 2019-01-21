@@ -14,9 +14,9 @@
 - **other**
 
 ###图片介绍
-<img src='./img/1.png' width="240px"/>
-<img src='./img/2.png' width="240px"/>
-<img src='./img/3.png' width="240px"/>
+<img src='https://github.com/edisonlz/vue_player/blob/master/img/1.png' width="240px"/>
+<img src='https://github.com/edisonlz/vue_player/blob/master/img/2.png' width="240px"/>
+<img src='https://github.com/edisonlz/vue_player/blob/master/img/3.png' width="240px"/>
 
 -------------------
 
