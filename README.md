@@ -14,11 +14,9 @@
 - **other**
 
 ###图片介绍
- ![image](https://github.com/edisonlz/vue_player/blob/master/img/1.png)
- 
-<img src='https://github.com/edisonlz/vue_player/blob/master/img/1.png' width="240px"/>
-<img src='https://github.com/edisonlz/vue_player/blob/master/img/2.png' width="240px"/>
-<img src='https://github.com/edisonlz/vue_player/blob/master/img/3.png' width="240px"/>
+<img src='http://static-10004299.file.myqcloud.com/images/1.png' width="240px"/>
+<img src='http://static-10004299.file.myqcloud.com/images/2.png' width="240px"/>
+<img src='http://static-10004299.file.myqcloud.com/images/3.png' width="240px"/>
 
 -------------------
 
